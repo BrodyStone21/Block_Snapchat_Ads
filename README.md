@@ -6,4 +6,11 @@ This was tested on a Google Pixel 5. There are no obvious issues I've discovered
 Please let me know of any issues and I'll do my best to implement the changes in a timely manner.
 
 ### How to add to Pi-hole
-Pi-hole Web UI -> "Group Management" -> "Adlists" -> Address: https://raw.githubusercontent.com/BrodyStone21/Block_Snapchat_Ads/main/domains/whitelist.txt
+1. Navigate to the Pi-hole Web UI
+2. Click "Group Management" 
+3. Click "Adlists"
+4. Where it asks for an address, enter this: https://raw.githubusercontent.com/BrodyStone21/Block_Snapchat_Ads/main/domains/whitelist.txt
+5. Click "Tools"
+6. Click "Update Gravity"
+7. Click "Update"
+8. Profit
