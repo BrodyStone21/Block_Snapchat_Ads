@@ -1,0 +1,8 @@
+snapchat-proxy.appspot.com
+bolt-gcdn.sc-cdn.net
+gtq6.sct.sc-prod.net
+aw.sc-cdn.net
+gcs.sc-cdn.net
+aws.duplex.snapchat.com
+topic-sticker-vending.snapchat.com
+us-central1-gcp.api.snapchat.com
