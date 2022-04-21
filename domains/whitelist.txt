@@ -6,3 +6,5 @@ us-east1-aws.api.snapchat.com
 aws.api.snapchat.com
 gcp.api.snapchat.com
 internal-api.snapkit.com
+
+us-central1-gcp.api.snapchat.com # if you whitelist this domain, new discovery shows will load, but you will get ads
