@@ -1,0 +1,3 @@
+# Note that you have to add this to your instance manually
+
+(\.|^)snapads.com$
