@@ -1,0 +1,8 @@
+cf-st.sc-cdn.net
+mvm.snapchat.com
+app.snapchat.com
+us-east1-aws-cf.api.snapchat.com 
+us-east1-aws.api.snapchat.com
+aws.api.snapchat.com
+gcp.api.snapchat.com
+internal-api.snapkit.com
