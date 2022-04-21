@@ -14,5 +14,5 @@ Please let me know of any issues and I'll do my best to implement the changes in
 6. Click "Update Gravity"
 7. Click "Update"
 
-###Note: 
+### Note: 
 Please ensure you clear Snapchat's cache and force stop the app within your system settings to ensure this works. 
