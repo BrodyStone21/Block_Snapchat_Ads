@@ -9,7 +9,7 @@ Please let me know of any issues and I'll do my best to implement the changes in
 1. Navigate to the Pi-hole Web UI
 2. Click "Group Management" 
 3. Click "Adlists"
-4. Where it asks for an address, enter this: https://raw.githubusercontent.com/BrodyStone21/Block_Snapchat_Ads/main/domains/whitelist.txt
+4. Where it asks for an address, enter this: https://raw.githubusercontent.com/BrodyStone21/Block_Snapchat_Ads/main/domains/blacklist.txt
 5. Click "Tools"
 6. Click "Update Gravity"
 7. Click "Update"
