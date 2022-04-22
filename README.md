@@ -17,5 +17,5 @@ Please let me know of any issues and I'll do my best to implement the changes in
 ### Note: 
 Please ensure you clear Snapchat's cache and force stop the app within your system settings to ensure this works. 
 
-### My Stories/Discover page isn't loading new content?
-To force your Discover/Stories page to load new content, you must either temporily disable Pi-hole, or connect to a network that is not blocking these domains (such as your mobile data). Then you must open the app, and refresh the Discover page. After this, you can renable Pi-hole. 
+### My Stories/Discover page isn't checking for new content?
+To force your Discover/Stories page to check for new content, you must either temporily disable Pi-hole, or connect to a network that is not blocking these domains (such as your mobile data). Then you must open the app, and refresh the Discover page. After this, you can renable Pi-hole. 
