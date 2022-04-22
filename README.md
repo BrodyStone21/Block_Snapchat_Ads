@@ -16,3 +16,6 @@ Please let me know of any issues and I'll do my best to implement the changes in
 
 ### Note: 
 Please ensure you clear Snapchat's cache and force stop the app within your system settings to ensure this works. 
+
+### My Discover page isn't loading new content?
+To force your Discover page to load new content, you must either temporily disable Pi-hole, or connect to a network that is not blocking these domains (such as your mobile data). Then you must open the app, go to the discover page, and scroll down to let new content load. After this, you can renable Pi-hole. 
